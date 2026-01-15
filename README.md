@@ -69,6 +69,6 @@ function trackUserClick(elementId) {
     console.log("Korisnik je kliknuo na: " + elementId);
 }
 ```
-![UX Design 1](UXDesign1.jpeg)
-![UX Design 2](link_na_pexels_sliku_2)
+![UX Design 1](UX Design 1.jpg)
+![UX Design 2](UX Design 2.jpg)
 
