@@ -69,6 +69,16 @@ function trackUserClick(elementId) {
     console.log("Korisnik je kliknuo na: " + elementId);
 }
 ```
+### Primjer slika ( ne radi mi kad stavim sliku u repozitorij pa sam stavio link samo) 
 ![UX Design 1.jpg](https://images.pexels.com/photos/3585088/pexels-photo-3585088.jpeg)
 ![UX Design 2](https://images.pexels.com/photos/1181673/pexels-photo-1181673.jpeg)
 
+### Primjer tablice 
+
+| Naziv projekta | Verzija | Autor | Datum | Tehnologije |
+| :--- | :--- | :--- | :--- | :--- |
+| **ATP26-ispit** | 1.0 | Vaše Ime i Prezime | 15.01.2026. | Markdown, GitHub, GitHub Pages |
+
+### Primjer citata
+
+> "User Experience (UX) design is the process of creating products that provide meaningful and relevant experiences to users." – *Interaction Design Foundation*
