@@ -1,5 +1,9 @@
 # ATP26 Ispit
 
+## Linkovi
+* 📄 [Licenca projekta (LICENSE)](LICENSE.md)
+* 📝 [Povijest promjena (CHANGELOG)](CHANGELOG.md)
+
 ## O projektu
 Ovaj projekt istražuje osnove dizajna korisničkog iskustva (UX).
 
