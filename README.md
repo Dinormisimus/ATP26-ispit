@@ -86,3 +86,16 @@ function trackUserClick(elementId) {
 ### Primjer citata
 
 > "User Experience (UX) design is the process of creating products that provide meaningful and relevant experiences to users." – *Interaction Design Foundation*
+
+### Edukativni Video o UX Dizajnu 🎥
+[![What is UX Design?](https://img.youtube.com/vi/ziQEqGZB8GE/0.jpg)](https://www.youtube.com/watch?v=ziQEqGZB8GE)
+*Kliknite na sliku iznad za prikaz videa: "What Is UX Design? - An Introduction"*
+
+### Ključni koraci u UX dizajnu 🛠️
+* :mag: **Istraživanje** - Razumijevanje potreba korisnika.
+* :art: **Dizajn** - Izrada wireframe-ova i prototipa.
+* :white_check_mark: **Testiranje** - Provjera rješenja s pravim korisnicima.
+* :rocket: **Lansiranje** - Objava finalnog proizvoda.
+
+> [!IMPORTANT]
+> **Važna napomena:** UX dizajn nije samo vizualni izgled (UI), već cjelokupan osjećaj i funkcionalnost proizvoda tijekom interakcije s korisnikom. 💡
